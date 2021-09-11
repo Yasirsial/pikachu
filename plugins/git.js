@@ -11,19 +11,19 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     
     
    
-  r_text[0] = "https://www.pixelstalk.net/wp-content/uploads/2016/05/Amazing-spider-man-spiderman-webs-comics-video-superhero-wallpapers-768x480.jpg";
+  r_text[0] = "https://ibb.co/LrTm0Qs";
     
     
     var i = Math.floor(1*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*creater Baala*
-*owner number wa.me/923207371452*
-*
-*githublink       https://github.com/itxammy/pikachu*
-*audio commads    https://github.com/itxammy/pikachu/tree/master/uploads*
-*sticker commads  https://github.com/itxammy/pikachu/tree/master/uploads*
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*creater* 🆈🅰🆂🅸🆁 🆂🅸🅰🅻
+
+
+*owner number* wa.me/923184083345
+
+Follow on Facebook :https://www.facebook.com/Yasirsial786
 `}) 
 
 }));
