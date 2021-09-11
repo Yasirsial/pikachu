@@ -1,5 +1,5 @@
 {
-    "name": "PIKACHU BY BAALA-SHETAAN",
+    "name": "PIKACHU BY 🆈🅰🆂🅸🆁 🆂🅸🅰🅻",
     "description": "pikachu bot - re-edited from asena. World’s first UserBot made for WhatsApp.",
     "logo": "https://raw.githubusercontent.com/itxammy/pikachu/master/Pikachu-407x400.png",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
@@ -13,7 +13,7 @@
             "required": true
         },
         "SUDO": {
-            "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 1205xxxxxxxxx (USA number +1)",
+            "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 92300xxxxxxxxx (USA number +1)",
             "required": false
         },
         "LANGUAGE": {
@@ -94,7 +94,7 @@
          "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "•━━━━╼⤏BAALA BOT⤎╾━━━•"
+            "value": "•━━━━╼⤏SIAL BOT⤎╾━━━•"
         },
         "HEROKU_API_KEY": {
             "description": "Herokuda API Keyiniz. Heroku API Key.",
@@ -151,7 +151,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands```\n\n```pikachu🧚‍♂️```\n\n```coded by BAALA-SHETAAN```\n\n```wa.me/923207371452```\n\n```https://www.facebook.com/painduno1```"
+            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands```\n\n```pikachu🧚‍♂️```\n\n```coded by 🆈🅰🆂🅸🆁 🆂🅸🅰🅻```\n\n```wa.me/923184083345```\n\n```https://www.facebook.com/Yasirsial786```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable kick Message! Use => default, to change back.",
