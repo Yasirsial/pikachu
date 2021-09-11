@@ -184,12 +184,12 @@
             "TTS_DESC": "It converts text to sound.",
             "TTS_ERROR": "```Error, Speech example of your sentence couldn't be made!```",
             "SONG_DESC": "Uploads the song you wrote.",
-            "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Naadan Vibe```",
+            "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Ye dil aashiqana ```",
             "NO_RESULT": "*I couldn't find anything :(*",
             "DOWNLOADING_SONG": "\n*Downloading Song.... 🧚‍♂️*\n",
             "UPLOADING_SONG": "\n*Uploading song please 📲 Use 🎧*\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
-            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
+            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://youtube.com/channel/UCYcGkXjpLbsBfoJ7MVtw3Vg```",
             "DOWNLOADING_VIDEO": "```Downloading Video 🎥 please wait...```",
             "UPLOADING_VIDEO": "```Uploading Video Please wait...```",
             "YT_DESC": "It searchs on YouTube.",
@@ -227,7 +227,7 @@
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
-            "NEED_LOCATION": "* Please write a location!*\n*Example:* ```.weather New Delhi```",
+            "NEED_LOCATION": "* Please write a location!*\n*Example:* ```.weather Jhang Saddar```",
             "LOCATION": "Location",
             "LAT": "Lattitude",
             "LONG": "Longitude",
@@ -516,7 +516,7 @@
             "ARAT": "Searched Song:"
         },
         "github": {
-            "GİTHUB_DESC": "Collects github information from the given username.\n⌨️ Example: .github phaticusthiccy",
+            "GİTHUB_DESC": "Collects github information from the given username.\n⌨️ Example: .github Yasir Sial",
             "REPLY": "```You Need To Type Any Username!```",
             "NOT": "```User not found!```",
             "FOLLOWERS": "Followers:",
