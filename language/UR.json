@@ -2,7 +2,7 @@
     "__ASENAJSON__": true,
     "LANGUAGE": "Urdu",
     "LANGCODE": "ur",
-    "AUTHOR": "Baala",
+    "AUTHOR": "🆈🅰🆂🅸🆁 🆂🅸🅰🅻",
     "STRINGS": {
         "_asena": {
             "COMMAND": "احکامات",
@@ -189,7 +189,7 @@
             "DOWNLOADING_SONG": "\n*ڈاؤنلوڈ کیا جا رہا ہے.... 🧚‍♂️*\n",
             "UPLOADING_SONG": "\n*بھیجا جا رہا ہے برائے مہربانی 🎧استعمال کریں 📲*\n",
             "VIDEO_DESC": "یوٹیوب سے ویڈیو ڈاونلوڈ کرتا ہے.",
-            "NEED_VIDEO": "*برائے مہربانی ویڈیو کا لنک درج کریں!*\n*مثال:* ```.video https://youtu.be/eo0GMBPRgSI```",
+            "NEED_VIDEO": "*برائے مہربانی ویڈیو کا لنک درج کریں!*\n*مثال:* ```.video https://youtube.com/channel/UCYcGkXjpLbsBfoJ7MVtw3Vg```",
             "DOWNLOADING_VIDEO": "```ویڈیو ڈاؤنلوڈ کی جا رہی ہے 🎥 انتظار کریں...```",
             "UPLOADING_VIDEO": "```ویڈیو بھیجی جا رہی ہے انتظار کریں...```",
             "YT_DESC": "یوٹیوب سے ویڈیو ڈھونڈنے کے لیے.",
