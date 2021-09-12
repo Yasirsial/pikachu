@@ -11,7 +11,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     
     
    
-  r_text[0] = "https://www.pixelstalk.net/wp-content/uploads/2016/06/Thor-Backgrounds-For-Desktop.jpg";
+  r_text[0] = "https://www.pixelstalk.net/wp-content/uploads/2015/12/Iron-man-3-HD-wallpaper.jpg";
     
     
     var i = Math.floor(1*Math.random())
@@ -22,6 +22,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
 
 *owner number* wa.me/923184083345
+
 
 Follow on Facebook :https://www.facebook.com/Yasirsial786
 `}) 
